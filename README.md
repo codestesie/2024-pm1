@@ -2,4 +2,4 @@
 
 \...
 
-Testo inserito da stdente "codestesie".
+Testo inserito da studente "codestesie".
